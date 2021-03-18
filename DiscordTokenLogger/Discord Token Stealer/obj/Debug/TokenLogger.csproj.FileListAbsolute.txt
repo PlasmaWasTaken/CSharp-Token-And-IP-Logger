@@ -1,0 +1,7 @@
+C:\Users\ASUS ROG\Desktop\Discord-Token-Stealer-master\Discord Token Stealer\Discord Token Stealer\bin\Debug\Discord Token Stealer.exe.config
+C:\Users\ASUS ROG\Desktop\Discord-Token-Stealer-master\Discord Token Stealer\Discord Token Stealer\bin\Debug\Discord Token Stealer.exe
+C:\Users\ASUS ROG\Desktop\Discord-Token-Stealer-master\Discord Token Stealer\Discord Token Stealer\obj\Debug\TokenLogger.csprojAssemblyReference.cache
+C:\Users\ASUS ROG\Desktop\Discord-Token-Stealer-master\Discord Token Stealer\Discord Token Stealer\obj\Debug\Discord_Token_Stealer.Properties.Resources.resources
+C:\Users\ASUS ROG\Desktop\Discord-Token-Stealer-master\Discord Token Stealer\Discord Token Stealer\obj\Debug\TokenLogger.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Desktop\Discord-Token-Stealer-master\Discord Token Stealer\Discord Token Stealer\obj\Debug\TokenLogger.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Desktop\Discord-Token-Stealer-master\Discord Token Stealer\Discord Token Stealer\obj\Debug\Discord Token Stealer.exe
